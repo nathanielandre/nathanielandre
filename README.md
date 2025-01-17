@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="left">About</h2>
-<h3 align="justify">An Electrical Engineering graduate from Padjadjaran University with an interest in data science and a strong passion for exploring its applications. Recently completed an intensive full-time Data Science bootcamp at Hacktiv, where I honed my skills in data processing, data analysis, machine learning, and artificial intelligence. Proficient in Python, C++, and MATLAB, and highly adaptable in learning new programming languages and technologies. Known for my curiosity, strong work ethic, and ability to thrive in a dynamic environment.</h3>
+<h4 align="justify">An Electrical Engineering graduate from Padjadjaran University with an interest in data science and a strong passion for exploring its applications. Recently completed an intensive full-time Data Science bootcamp at Hacktiv, where I honed my skills in data processing, data analysis, machine learning, and artificial intelligence. Proficient in Python, C++, and MATLAB, and highly adaptable in learning new programming languages and technologies. Known for my curiosity, strong work ethic, and ability to thrive in a dynamic environment.</h4>
 
 <br/>
 
