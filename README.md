@@ -1,4 +1,4 @@
-![Header](./WELCOME TO MY REPOSITORY.png)
+![Header](./WELCOME_TO_MY_REPOSITORY.png)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&duration=4000&pause=50&color=B1E6E3&background=2B535E00&center=true&multiline=true&width=500&height=120&lines=👋+Hello%2C+I'm;❄+Nathaniel+Andre+❄" alt="Typing SVG" />
