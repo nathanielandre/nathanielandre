@@ -20,8 +20,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,tableau,elasticsearch,kibana" />
-    <img src="https://skillicons.dev/icons?i=python,html,mongodb,c++,postgres,tensorflow,scikitlearn" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,elasticsearch" />
+    <img src="https://skillicons.dev/icons?i=python,html,mongodb,c,postgres,tensorflow,scikitlearn" /><br>
 </div>
 <!--
 **nathanielandre/nathanielandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
