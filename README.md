@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&duration=4000&pause=50&color=BAF2EF&background=396D7C&center=true&multiline=true&width=435&height=100&lines=Hello%2C+I'm;Nathaniel+Andre" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&duration=4000&pause=50&color=B1E6E3&background=2B535E00&center=true&multiline=true&width=435&height=100&lines=Hello%2C+I'm;Nathaniel+Andre" alt="Typing SVG" />
 </h1>
 <!--
 **nathanielandre/nathanielandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
