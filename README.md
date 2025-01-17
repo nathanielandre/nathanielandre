@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=40&duration=4000&pause=50&color=B1E6E3&background=2B535E00&center=true&multiline=true&width=500&height=120&lines=👋+Hello%2C+I'm;❄+Nathaniel+Andre+❄" alt="Typing SVG" />
 </h1>
+<hr/>
 
 <h2 align="left">About Me</h2>
 <h4 align="justify">An Electrical Engineering graduate from Padjadjaran University with an interest in data science and a strong passion for exploring its applications. Recently completed an intensive full-time Data Science bootcamp at Hacktiv, where I honed my skills in data processing, data analysis, machine learning, and artificial intelligence. Proficient in Python, C++, and MATLAB, and highly adaptable in learning new programming languages and technologies. Known for my curiosity, strong work ethic, and ability to thrive in a dynamic environment.</h4>
